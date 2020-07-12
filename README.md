@@ -6,7 +6,7 @@ Discord: https://discord.gg/wKtHFFq
 
 Uniswap:
 
-Etherscan:
+Etherscan: https://etherscan.io/address/0x0f870e74bff2cebbe064602bea3186566f567049#code
 
 An ETS-based implementation of the [token bucket algorithm](https://en.wikipedia.org/wiki/Token_bucket).
 
