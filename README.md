@@ -1,5 +1,13 @@
 # Foretoken
 
+Hello! Welcome to the ForeToken GitHub.
+
+Discord: https://discord.gg/wKtHFFq
+
+Uniswap:
+
+Etherscan:
+
 An ETS-based implementation of the [token bucket algorithm](https://en.wikipedia.org/wiki/Token_bucket).
 
 - [API Documentation](http://hexdocs.pm/foretoken/)
