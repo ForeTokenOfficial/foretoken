@@ -4,7 +4,7 @@ Hello! Welcome to the ForeToken GitHub.
 
 Discord: https://discord.gg/wKtHFFq
 
-Uniswap:
+Uniswap Info: https://uniswap.info/token/0x0f870e74bff2cebbe064602bea3186566f567049
 
 Etherscan: https://etherscan.io/address/0x0f870e74bff2cebbe064602bea3186566f567049#code
 
