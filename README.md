@@ -2,7 +2,7 @@
 
 Hello! Welcome to the ForeToken GitHub.
 
-Discord: https://discord.gg/EgdE24F
+Discord: https://discord.gg/SuUk5ju
 
 Uniswap Info: https://uniswap.info/token/0xf6f1e37d070964d0b0d843878d3c14e09f478544
 
