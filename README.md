@@ -2,11 +2,11 @@
 
 Hello! Welcome to the ForeToken GitHub.
 
-Discord: https://discord.gg/wKtHFFq
+Discord: https://discord.gg/TMD99nw
 
-Uniswap Info: https://uniswap.info/token/0x0f870e74bff2cebbe064602bea3186566f567049
+Uniswap Info: https://uniswap.info/token/0xf6f1e37d070964d0b0d843878d3c14e09f478544
 
-Etherscan: https://etherscan.io/address/0x0f870e74bff2cebbe064602bea3186566f567049#code
+Etherscan: https://etherscan.io/address/0xf6f1e37d070964d0b0d843878d3c14e09f478544
 
 An ETS-based implementation of the [token bucket algorithm](https://en.wikipedia.org/wiki/Token_bucket).
 
